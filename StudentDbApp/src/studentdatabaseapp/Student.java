@@ -26,7 +26,6 @@ public class Student {
 		this.gradeYear = in.nextInt();
 		
 		setStudentID();
-		
 	}
 	
 	// Generate ID
